@@ -1,0 +1,7 @@
+Flask
+Flask-SQLAlchemy
+flask_restx
+mysql-connector-python
+mysqlclient
+Werkzeug==2.0.1
+gunicorn
